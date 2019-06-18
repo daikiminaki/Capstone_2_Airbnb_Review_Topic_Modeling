@@ -1,5 +1,9 @@
 # Airbnb_Review_Topic_Modeling
 
+## Full Report: 
+https://github.com/daikiminaki/Capstone_2_Airbnb_Review_Topic_Modeling/blob/master/Capstone_2_Airbnb_Review_Topic_Modeling_Report.pdf
+
+
 ## Objective
 Identify topics in Airbnb reviews and use the categorizations to analyze and build models to gain insights on reviews, reviewers, hosts, and listings.
 
@@ -26,3 +30,11 @@ Now that the topics were identified for the reviews it was possible to look at t
 Using Latent Dirichlet Allocation (LDA) I was able to successfully pull different topics from review data and use these topics to gain insight on how guests review listings on Airbnb.  To get a sense of some overarching trends in the type of reviews that were left for different listings I performed K-Means clustering which clustered the listings into four main groups. 
 
 The key differences in the review behavior for the four clusters mainly dealt with whether “Cleanliness” and “Come Again” were mentioned in the reviews of the listings or not.  Using this I also did some analysis to see what the reason could be for the difference and whether there were any interesting relationships between listing features and the mention of the different topics.  In the end it seems like there is a clear relationship between reviewers leaving “Come Back” reviews and a listing with high ratings and listings with lower prices with more mentions of cleanliness.
+
+
+
+### Slide Deck: 
+https://github.com/daikiminaki/Capstone_2_Airbnb_Review_Topic_Modeling/blob/master/Capstone_2_Airbnb_Review_Topic_Modeling_Presentation.pdf
+
+### Report: 
+https://github.com/daikiminaki/Capstone_2_Airbnb_Review_Topic_Modeling/blob/master/Capstone_2_Airbnb_Review_Topic_Modeling_Report.pdf
